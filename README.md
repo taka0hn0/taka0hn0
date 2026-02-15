@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Taka, a medical student based in Japan.
+
+I usually code to make pipelines for my medical researches, which probablly make my repositories boring.
+
+I'm currently using WezTerm and Neovim to code, so I can maybe share my configures with you guys!
 <!--
 **taka0hn0/taka0hn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
