@@ -51,14 +51,3 @@ I recently developed a fully automated pipeline that:
 * **Currently**: Optimizing statistical annotation bracket logic in R.
 
 ---
-
-### 🎨 GitHub Stats (Optional)
-
-### 📊 My GitHub Stats
-
-![Stats Card](https://github-readme-stats.vercel.app/api?username=taka0hn0&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taka0hn0&layout=compact&theme=radical)
-
----
