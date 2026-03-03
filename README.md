@@ -1,4 +1,4 @@
-# 🧬 Hi there, I'm [Your Name]!
+# 🧬 Hi there, I'm Taka!
 
 ### **Bio-Assay Automation Engineer | Data Scientist**
 
